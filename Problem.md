@@ -52,3 +52,31 @@
 对于 100% 的测试样例， 1 <= n <= 10^5, 1 <= wi, pi <= 10^6。  
 
 ### 运行限制
+
+<table>
+  <tr>
+    <th>语言</th>
+    <th>最大运行时间</th>
+    <th>最大运行内存</th>
+  </tr>
+  <tr>
+    <th>C++</th>
+    <th>1s</th>
+    <th>512M</th>
+  </tr>
+  <tr>
+    <th>C</th>
+    <th>1s</th>
+    <th>512M</th>
+  </tr>
+  <tr>
+    <th>Java</th>
+    <th>2s</th>
+    <th>512M</th>
+  </tr>
+  <tr>
+    <th>Python3</th>
+    <th>3s</th>
+    <th>512M</th>
+  </tr>
+</table>
